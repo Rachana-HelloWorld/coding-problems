@@ -4,7 +4,7 @@ public class FiboIterative {
 
 	public static void main(String[] args) {
 
-		int n = 10; // take user unput
+		int n = 100; // take user unput
 		if (n == 0)
 			System.out.println("Please enter a number greater than 0");
 		fibo(n);
