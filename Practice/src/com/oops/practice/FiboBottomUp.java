@@ -2,9 +2,12 @@ package com.oops.practice;
 
 public class FiboBottomUp {
 
+	// Program to find the nth fibonacci number using Bottom Up solution
 	public static void main(String[] args) {
 
-		int n = 50;
+		int n = 99;
+
+		// although the data type is long, it may overflow at one point if n is large
 		long result = fibo(n);
 		System.out.println(result);
 	}

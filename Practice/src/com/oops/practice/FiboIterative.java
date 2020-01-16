@@ -2,6 +2,7 @@ package com.oops.practice;
 
 public class FiboIterative {
 
+	// Program to print first n fibonacci numbers
 	public static void main(String[] args) {
 
 		int n = 100; // take user unput
