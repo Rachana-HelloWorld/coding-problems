@@ -1,5 +1,6 @@
 package com.oops.practice;
 
+// Program to reverse a Linked List
 public class LLReversal {
 
 	public static void main(String[] args) {

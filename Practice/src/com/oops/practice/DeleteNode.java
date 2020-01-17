@@ -1,5 +1,6 @@
 package com.oops.practice;
 
+// Given a pointer to a node, write a program to delete that node
 public class DeleteNode {
 
 	static void deleteNode(LLNode current) {
