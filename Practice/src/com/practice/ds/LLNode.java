@@ -1,4 +1,4 @@
-package com.oops.practice;
+package com.practice.ds;
 
 public class LLNode {
 

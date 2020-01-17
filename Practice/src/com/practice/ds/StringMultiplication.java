@@ -1,5 +1,6 @@
-package com.oops.practice;
+package com.practice.ds;
 
+// Given two numbers in string format, multiply those numbers
 public class StringMultiplication {
 
 	public static void main(String[] args) {

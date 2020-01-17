@@ -1,4 +1,4 @@
-package com.oops.practice;
+package com.practice.ds;
 
 // Program to reverse a Linked List
 public class LLReversal {

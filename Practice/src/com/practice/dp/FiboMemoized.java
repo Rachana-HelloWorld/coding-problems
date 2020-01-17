@@ -1,4 +1,4 @@
-package com.oops.practice;
+package com.practice.dp;
 
 // Program to find the nth fibonacci number using Memoized solution
 public class FiboMemoized {

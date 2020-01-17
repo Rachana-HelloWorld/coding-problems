@@ -1,4 +1,4 @@
-package com.oops.practice;
+package com.practice.ds;
 
 // Given a pointer to a node, write a program to delete that node
 public class DeleteNode {

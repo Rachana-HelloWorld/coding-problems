@@ -1,5 +1,6 @@
-package com.oops.practice;
+package com.practice.ds;
 
+// Program for reversing the words in a sentence
 public class WordReversal {
 
 	public static void main(String[] args) {

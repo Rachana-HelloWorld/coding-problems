@@ -1,4 +1,4 @@
-package com.oops.practice;
+package com.practice.ds;
 
 import java.util.HashSet;
 

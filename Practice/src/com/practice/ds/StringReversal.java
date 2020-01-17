@@ -1,5 +1,6 @@
-package com.oops.practice;
+package com.practice.ds;
 
+// Program to reverse a string
 public class StringReversal {
 
 	public static void main(String[] args) {

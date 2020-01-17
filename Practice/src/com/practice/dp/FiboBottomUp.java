@@ -1,4 +1,4 @@
-package com.oops.practice;
+package com.practice.dp;
 
 public class FiboBottomUp {
 

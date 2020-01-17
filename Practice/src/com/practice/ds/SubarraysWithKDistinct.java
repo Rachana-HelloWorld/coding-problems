@@ -1,4 +1,4 @@
-package com.oops.practice;
+package com.practice.ds;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -7,13 +7,14 @@ class SubarraysWithKDistinct {
 
 	public static void main(String args[]) {
 
-		int[] A = { 1, 1, 1, 6, 9,1, 0, 8, 7, 6, 0 }; 
+		int[] A = { 1, 1, 1, 6, 9, 1, 0, 8, 7, 6, 0 };
 		int K = 3;
 
 		int result = subarraysWithKDistinct(A, K);
 		System.out.println(result);
 
 	}
+
 	public static int subarraysWithKDistinct(int[] A, int K) {
 		Check.count = 0;
 		for (int i = 0; i <= A.length - K; i++) {
